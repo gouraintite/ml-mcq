@@ -223,7 +223,7 @@ export default function MLQuizApp() {
         <div style={{maxWidth:900, margin:"0 auto"}}>
           <div style={{display:"flex",alignItems:"center",gap:12,marginBottom:8}}>
             <span style={{fontSize:32}}>🎓</span>
-            <span style={{fontFamily:"'JetBrains Mono',monospace",fontSize:11,color:"#7c3aed",letterSpacing:2,textTransform:"uppercase"}}>EFREI Paris — Machine Learning</span>
+            <span style={{fontFamily:"'JetBrains Mono',monospace",fontSize:11,color:"#7c3aed",letterSpacing:2,textTransform:"uppercase"}}>ING 2 NEW — Machine Learning  — Made by  <i>Rainsong & Claude </i></span>
           </div>
           <h1 style={{fontSize:36,fontWeight:700,lineHeight:1.2,marginBottom:8,background:"linear-gradient(90deg,#e2e2e8,#a78bfa)",WebkitBackgroundClip:"text",WebkitTextFillColor:"transparent"}}>
             Final Exam Review — 120 MCQs
